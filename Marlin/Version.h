@@ -35,7 +35,7 @@
   /**
    * Marlin release version identifier
    */
-  #define SHORT_BUILD_VERSION "1.1.9"
+  #define SHORT_BUILD_VERSION "TronXY Ramps1.4 1.1.9"
 
   /**
    * Verbose version identifier which should contain a reference to the location
@@ -70,7 +70,7 @@
   /**
    * Defines a generic printer name to be output to the LCD after booting Marlin.
    */
-  #define MACHINE_NAME "3D Printer"
+  #define MACHINE_NAME "TronXY"
 
   /**
    * The SOURCE_CODE_URL is the location where users will find the Marlin Source
@@ -89,6 +89,6 @@
    * The WEBSITE_URL is the location where users can get more information such as
    * documentation about a specific Marlin release.
    */
-  #define WEBSITE_URL "http://marlinfw.org"
+  #define WEBSITE_URL "http://bit.ly/tronxyx5s"
 
 #endif // USE_AUTOMATIC_VERSIONING
